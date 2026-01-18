@@ -1,9 +1,8 @@
 fastapi
 uvicorn
 rembg
-onnxruntime-cpu
+onnxruntime
 pillow
 numpy
-python-multipart
 aiofiles
 jinja2
