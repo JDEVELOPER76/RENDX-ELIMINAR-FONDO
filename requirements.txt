@@ -1,5 +1,5 @@
 fastapi
-guvicorn
+uvicorn
 rembg
 onnxruntime
 pillow
